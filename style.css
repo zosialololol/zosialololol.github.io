@@ -1,11 +1,17 @@
 p
 
 {
-    color:blue; 
+    color:rgb(167, 38, 128); 
     font-size:x-large; 
-    font-weight:500;}
+    font: weight 18pt;}
 body
 
 {
-    background-color: beige;
+    background-color: rgb(243, 213, 233);
+}
+
+div
+
+{
+    max-width: 600px;
 }
